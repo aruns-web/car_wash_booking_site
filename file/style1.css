@@ -1,0 +1,55 @@
+.logo {
+    position: relative;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    margin-left: 300px;
+}
+
+.top-bar-text{
+	position: relative;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
+.top-bar-text h3{
+	font-family: Impact;
+	align-items: center;
+	margin-bottom: 200px;
+	margin-left: 200px;
+}
+.top-bar-text p{
+	font-family:Nirmala UI;
+	align-items: center;
+	margin-bottom:130px;
+	margin-left: -110px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  margin-top: -100px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a button:hover{
+	background-color:#ff0000;
+	color: white;
+}
+
